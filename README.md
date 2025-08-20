@@ -41,7 +41,7 @@ This project is ideal for those looking to build a robust MERN stack application
 
 [https://talk-a-tive-7fgq.onrender.com](https://talk-a-tive-7fgq.onrender.com)
 
-![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/main/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
 
 Clone the project
@@ -83,22 +83,22 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/master/screenshots/login.PNG)
-![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/master/screenshots/signup.PNG)
+![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/main/screenshots/login.PNG)
+![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/main/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
-![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/master/screenshots/real-time.PNG)
+![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/main/screenshots/real-time.PNG)
 ### One to One chat
-![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/master/screenshots/mainscreen.PNG)
+![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/main/screenshots/mainscreen.PNG)
 ### Search Users
-![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/master/screenshots/search.PNG)
+![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/main/screenshots/search.PNG)
 ### Create Group Chats
-![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/master/screenshots/new%20grp.PNG)
+![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/main/screenshots/new%20grp.PNG)
 ### Notifications 
-![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/main/screenshots/group%20%2B%20notif.PNG)
 ### Add or Remove users from group
-![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/master/screenshots/add%20rem.PNG)
+![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/main/screenshots/add%20rem.PNG)
 ### View Other user Profile
-![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/master/screenshots/profile.PNG)
+![](https://github.com/Aman-Kumar1018/Real-Time-Chat-Application/blob/main/screenshots/profile.PNG)
 ## Made By
 
 - [@Aman-Kumar](https://github.com/Aman-Kumar1018)
